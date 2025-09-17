@@ -57,7 +57,13 @@ Outside tech, I love hands-on work like cars and mechanics 🚗🔧.
 ## 📊 GitHub Stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=omerhhh&theme=tokyonight&background=000000)
+## 📊 GitHub Stats
 
+![Omer's GitHub stats](https://github-readme-stats.vercel.app/api?username=omerhhh&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=omerhhh&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omerhhh&layout=compact&theme=tokyonight)
 ---
 
 ## 🌐 Connect With Me!
