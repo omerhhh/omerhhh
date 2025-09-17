@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi there, I'm Omer! 👋
 
-<!--
-**omerhhh/omerhhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Technology Management (B.Hons) Student**  
+Ontario Tech University  
+📊 Focused on the intersection of business, IT, and project management
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills & Technologies
+
+- **Languages & Tools:**  
+  ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+  ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+  ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+  ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+
+- **Soft Skills:**  
+  🧩 Problem-solving  
+  🤝 Teamwork & Collaboration
+
+---
+
+## 🌟 Favorite Projects
+
+- [**Portfolio Website**](https://github.com/omerhhh/portfolio)  
+  _A showcase of my work and skills — built from scratch using HTML & CSS._
+
+- [**Assignment Tracker**](https://github.com/omerhhh/assignment-tracker)  
+  _CRUD app for tracking assignments, created with Express.js and EJS._
+
+- [**Web Development Course Projects**](https://github.com/omerhhh/webdevelopmentcourse)  
+  _Hands-on exercises exploring front-end and back-end basics._
+
+---
+
+## ⚡ Fun Fact
+
+I love hands-on work—maybe that's why I'm into cars as much as coding! 🚗🔧
+
+---
+
+## 📫 Connect with Me
+
+- GitHub: [omerhhh](https://github.com/omerhhh)
+
+---
+
+Thanks for stopping by! Check out my repos for more projects and learning journeys.
