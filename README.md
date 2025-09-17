@@ -1,62 +1,68 @@
-# Hi there, I'm Omer! 👋
+<!-- Typing Animation -->
+<img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2000&pause=900&color=%23D7FA00&center=true&vCenter=true&width=600&height=45&lines=Technology+Management+Student;Full-Stack+Developer;AI%2FML+Learner;Always+Building+%26+Improving"
+    alt="Typing SVG"
+/>
 
-🎓 **Technology Management (B.Hons) Student**  
-Ontario Tech University  
-📊 Focused on the intersection of business, IT, and project management
+# Hey, I'm Omer Hashmi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="34px">
 
----
-
-## 🚀 Skills & Technologies
-
-- **Languages & Tools:**  
-  ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-  ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-  ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-  ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-  ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
-
-- **Soft Skills:**  
-  🧩 Problem-solving  
-  🤝 Teamwork & Collaboration
+I’m a Technology Management (B.Hons) student at Ontario Tech University with a passion for **software development, IT systems, and problem-solving**.  
+I’m currently working on projects that combine **business, technology, and coding** — from fitness apps to digital libraries.  
+Outside tech, I love hands-on work like cars and mechanics 🚗🔧.  
 
 ---
 
-## 🌟 Favorite Projects
-
-- [**Portfolio Website**](https://github.com/omerhhh/portfolio)  
-  _A showcase of my work and skills — built from scratch using HTML & CSS._
-
-- [**Assignment Tracker**](https://github.com/omerhhh/assignment-tracker)  
-  _CRUD app for tracking assignments, created with Express.js and EJS._
-
-- [**Web Development Course Projects**](https://github.com/omerhhh/webdevelopmentcourse)  
-  _Hands-on exercises exploring front-end and back-end basics._
+[![LinkedIn](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omer-hashmi-378fvv27/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/omerhhh)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/omerhashmi_)
 
 ---
 
-## ⚡ Fun Fact
+## 🙋‍♂️ About Me
 
-I love hands-on work—maybe that's why I'm into cars as much as coding! 🚗🔧
-
----
-
-## 📫 Connect with Me
-
-- GitHub: [omerhhh](https://github.com/omerhhh)  
-- LinkedIn: [Omer Hashmi](https://www.linkedin.com/in/omer-hashmi-378fvv27/)  
-- Instagram: [omerhashmi_](https://www.instagram.com/omerhashmi_/)
+- 🎓 3rd Year Technology Management (BIT) student @ Ontario Tech  
+- 💻 Exploring **full-stack development, cloud, and AI/ML**  
+- 📊 Strong interest in **business + IT + project management**  
+- 🚀 Building projects for my portfolio & co-op opportunities  
+- 🔧 Fun fact: I grew up around my family’s automotive business, so I enjoy coding by day and cars by night!  
 
 ---
 
-### 🔗 Quick Links (Badges)
+## 🛠 Tech Stack
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/omerhhh)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omer-hashmi-378fvv27/)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/omerhashmi_/)
+### Languages & Frameworks
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="42" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" height="42" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" height="42" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" height="42" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" height="42" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" height="42" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" height="42" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" height="42" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="42" />
+</p>
+
+### Tools & Platforms
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" height="42" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" height="42" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" height="42" />
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="42" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" height="42" />
+</p>
 
 ---
 
-Thanks for stopping by! Check out my repos for more projects and learning journeys.
+## 📊 GitHub Stats
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=omerhhh&theme=tokyonight&background=000000)
+
+---
+
+## 🌐 Connect With Me!
+Let’s collaborate and build something cool together!  
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/omer-hashmi-378fvv27/)  
+- 🐙 [GitHub](https://github.com/omerhhh)  
+- 📸 [Instagram](https://instagram.com/omerhashmi_)  
